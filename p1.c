@@ -1,4 +1,6 @@
 #include<stdio.h>
+
+//all pattern problem 
 void main(){
     int n=4;
     for(int i=0;i<n;i++){
